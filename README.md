@@ -1,2 +1,2 @@
 # t-shirt-factory
-garaunteed to ensure rmkeezer get's a free tshirt
+garaunteed to ensure free tshirts are produced and shipped
