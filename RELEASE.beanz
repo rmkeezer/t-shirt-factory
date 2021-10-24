@@ -1,0 +1,11 @@
+--/ wrap beans in new formatter
+88 bean{} (
+    wrap_beans{88}
+)
+
+null wrap_beans{88} (
+    -- 88.wrap()
+    -- 88 + 22 -> 88.output()
+    // release
+    realize 88
+)
